@@ -31,4 +31,4 @@ GramaKhata is a simple Android ledger application built for local shops and smal
 
 ## Developer
 
-Lohith
+ R Lohith
